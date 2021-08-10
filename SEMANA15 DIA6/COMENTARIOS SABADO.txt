@@ -1,0 +1,10 @@
+**********************************************************************************
+**********************************************************************************
+**********************************************************************************
+**********************************************************************************
+Actividad SABADO:
+
+*Presentación y evaluación del trabajo
+Aspectos a mejorar: Falta MVP, faltan los test unitarios.
+*Se suben las actividades pendientes a Github y la plataforma AIEP
+*Se realiza y sube la autoevaluación
