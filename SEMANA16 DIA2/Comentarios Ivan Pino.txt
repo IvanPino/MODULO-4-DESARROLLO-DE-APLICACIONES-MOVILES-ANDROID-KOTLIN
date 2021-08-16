@@ -1,0 +1,10 @@
+**********************************************************************************
+**********************************************************************************
+ACTIVIDAD MARTES - IVAN PINO
+**********************************************************************************
+**********************************************************************************
+2- Investigación KOTLIN
+*Event Listeners:
+https://kotlinlang.org/api/latest/jvm/stdlib/org.w3c.dom.events/-event-listener/
+*Event Listeners vs event Handlers 
+https://blog.kotlin-academy.com/programmer-dictionary-event-listener-vs-event-handler-305c667d0e3c

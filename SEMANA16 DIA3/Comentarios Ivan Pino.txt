@@ -1,0 +1,10 @@
+**********************************************************************************
+**********************************************************************************
+ACTIVIDAD MIERCOLES - IVAN PINO
+**********************************************************************************
+**********************************************************************************
+1. Limpieza y revisión de app:
+*Planificación de layouts en vista "land"
+*Corrección de Constraints (eran demasiadas en la app anterior)
+*Pruebas unitarias
+*Nuevas imágenes
