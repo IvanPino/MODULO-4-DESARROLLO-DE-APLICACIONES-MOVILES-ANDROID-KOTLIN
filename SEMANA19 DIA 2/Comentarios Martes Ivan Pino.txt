@@ -1,0 +1,7 @@
+**********************************************************************************
+**********************************************************************************
+ACTIVIDAD Martes - IVAN PINO
+**********************************************************************************
+**********************************************************************************
+1. Segundo intento de Room con persistencias, su uso será para registro rápido de usuarios o pacientes: 
+Se arreglan las fallas y se implementa en la aplicación directamente.
